@@ -1,24 +1,24 @@
-# ShopEase-SQL-Business-Case-Study
+# Target-SQL-Business-Case-Study
 
 1) Introduction:
 
-❓ What is ShopEase?
+❓ What is Target?
 
--  ShopEase is a globally renowned brand and a prominent retailer in the United States. 
-ShopEase makes itself a preferred shopping destination by offering outstanding value, 
+-  Target is a globally renowned brand and a prominent retailer in the United States. 
+Target makes itself a preferred shopping destination by offering outstanding value, 
 inspiration, innovation and an exceptional guest experience that no other retailer can 
 deliver.
 
 2) Why this case study?
 
-- This particular business case focuses on the operations of ShopEase in Brazil and provides 
+- This particular business case focuses on the operations of Target in Brazil and provides 
 insightful information about 100,000 orders placed between 2016 and 2018. The 
 dataset offers a comprehensive view of various dimensions including the order status, 
 price, payment and freight performance, customer location, product attributes, and 
 customer reviews.
 
 - By analyzing this extensive dataset, it becomes possible to gain valuable insights into 
-ShopEase's operations in Brazil. The information can shed light on various aspects of the 
+Target's operations in Brazil. The information can shed light on various aspects of the 
 business, such as order processing, pricing strategies, payment and shipping efficiency, 
 customer demographics, product characteristics, and customer satisfaction levels.
 
@@ -85,7 +85,7 @@ order_item_id A Unique ID given to each item ordered in the order
 
 product_id A Unique ID given to each product available on the site
 
-seller_id Unique ID of the seller registered in ShopEase
+seller_id Unique ID of the seller registered in Target
 
 shipping_limit_date The date before which shipping of the ordered product must be completed
 
